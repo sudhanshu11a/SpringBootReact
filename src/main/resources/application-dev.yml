@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: IPL Dashboard - DEV
+server:
+  port: 8081
